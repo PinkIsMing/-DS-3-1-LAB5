@@ -21,8 +21,8 @@ Housing.csv
 
 ### Algorithms (ALL Regressor)
 ---
-+Bagging
-+RandomForest
-+AdaBoost
-+GradientBoost
++ Bagging
++ RandomForest
++ AdaBoost
++ GradientBoost
 

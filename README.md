@@ -22,6 +22,7 @@ Housing.csv
 ### Algorithms (ALL Regressor)
 ---
 1. Bagging
+   
 +DecisionTreeRegressor & grid search =>Find best decision tree
 
     best_tree = DecisionTreeRegressor(criterion="mse",max_depth=10,max_features="auto",splitter="best",random_state=121)
